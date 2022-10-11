@@ -103,8 +103,8 @@ li {
 
 .column{
 	min-width: 200px;
+	align-content: center;
 	color: darkgray;
-	column-width: 33.33%;
 	padding: 15px;
 	margin: 15px;
 	float: left;
@@ -164,7 +164,6 @@ li {
 	font-family: 'Bowlby One SC';
 	height: 600px;
 	padding-bottom: 10px;
-}
 }
 
 .education-section{
