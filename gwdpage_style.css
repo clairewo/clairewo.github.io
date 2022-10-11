@@ -1,0 +1,197 @@
+body {
+  background: white;
+  margin: 0;
+  padding: 0;
+}
+
+.social_links{
+	padding: 10px;
+	background: white;
+}
+
+footer{
+	color: white;
+	text-align: center;
+	letter-spacing: 2px;
+	font-family: 'Bowlby One SC';
+	background: black;
+	font-size: 10px;
+	height: 100px;
+	
+
+}
+
+.navigation {
+	box-sizing: border-box;
+	background-color: black;
+	display: inline-block;
+	overflow: auto;
+	width: 100%;
+	z-index: 999;
+	letter-spacing: 2px;
+	padding: 18px 20px;
+	position: relative;
+	margin: 0px;
+  
+}
+
+.index_main{
+	height: 800px;
+	padding-bottom: 10px;
+}
+
+.project-main{
+	height: 600px;
+	padding-bottom: 10px;
+}
+
+.about-main{
+	height: 800px;
+	padding-bottom: 10px;
+}
+
+.career_body{
+	height: 800px;
+	padding-bottom: 10px;
+}
+
+
+
+.p-heading{
+	font-family: 'Bowlby One SC'; 
+	font-size:30px;
+	text-align: center;
+}
+
+
+li {
+  display: inline-block;
+  font-family: 'Bowlby One SC'; 
+	font-size:12px;
+  color: #F5F5F5;
+  letter-spacing: 2px;
+  margin-left: 18px;
+  text-align:center;
+
+}
+
+
+
+.nav_home_link{
+	text-decoration:none;
+	font-family: 'Bowlby One SC';
+	font-size: 30px;
+	letter-spacing: 2px;
+  
+}
+
+
+
+.info-section{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	align-items: center;
+
+}
+
+.name-span{
+	text-decoration: none;
+	font-family: 'Bowlby One SC';
+	letter-spacing: 2px;
+}
+
+
+
+.column{
+	min-width: 200px;
+	color: darkgray;
+	column-width: 33.33%;
+	padding: 15px;
+	margin: 15px;
+	float: left;
+	background-color: lavenderblush;
+}
+
+
+
+#grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+	grid-gap: 5px;
+}
+
+#grid>div {
+	font-size: 10px;
+	padding: .5em;
+	color: dimgray;
+	background: lavenderblush;
+	text-align: center;
+	font-family: 'Bowlby One SC';
+	letter-spacing: 2px;
+}
+
+.miniprofileimage{
+	width:200px;
+	height:200px;
+	background-size: cover;
+	background-position: center;
+	border-radius:50%;
+}
+
+.my_bio{
+	background-color: lavenderblush;
+	text-align: center;
+	font-family: 'Bowlby One SC';
+}
+
+
+#my_image{
+	border: dashed;
+	border-style: groove;
+	border-color: black; 
+}
+
+.career_body{
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Bowlby One SC';
+}
+
+
+
+.education_body{
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Bowlby One SC';
+	height: 600px;
+	padding-bottom: 10px;
+}
+}
+
+.education-section{
+	padding: 15px;
+	margin: 15px;
+	background-color: lavenderblush;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: #FF6FA7;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
